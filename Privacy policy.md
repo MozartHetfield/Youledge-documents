@@ -43,7 +43,7 @@ updated August 8, 2022</span></span>**</span>
 <span style="color: rgb(127, 127, 127);"><span style="color: rgb(89, 89, 89); font-size: 15px;"><span data-custom-class="body_text">This
 privacy notice for Code du
 Soleil<span style="color: rgb(89, 89, 89);"><span data-custom-class="body_text"></span></span>
-("**Company**," "**we**," "**us**," or
+("**we**," "**us**," or
 "**our**"</span><span data-custom-class="body_text">), describes how and
 why we might collect, store, use, and/or share ("**process**") your
 information when you use our services ("**Services**"), such as when
